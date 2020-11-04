@@ -3,7 +3,7 @@
 #define col 4
 int main(void)
 {
-	int i,j,a[row][col];
+	int i,j;
 	for(i=0;i<row;i++)
 	{
 		for(j=0;j<i;j++)
